@@ -1,6 +1,7 @@
 <h1 align="center">LoneWolf Consulting</h1>
 <p align="center">
 Peddaballe Vinodh Kumar Reddy [2212316] <br>
+Group 2 <br>
 University Canada West<br>
 BUSI 660, Section 40<br>
 </p>
