@@ -4,6 +4,11 @@ The construction industry is witnessing a significant shift in labor trends. �
 Mike Rowe fans, you’ll appreciate the insights on skilled labor and workforce dynamics. 💪
 
 Check out the full story here: Tide Turns on Construction Labor Trends
-https://lnkd.in/g-tyRykd
+[Link](https://lnkd.in/g-tyRykd)
 
-hashtag#ConstructionNews hashtag#LaborTrends hashtag#IndustryUpdate hashtag#MikeRowe hashtag#BuildingTheFuture 🏢🔨
+##hashtag
+### #ConstructionNews hashtag
+### #LaborTrends hashtag
+### #IndustryUpdate hashtag
+### #MikeRowe hashtag
+### #BuildingTheFuture 🏢🔨
