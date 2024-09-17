@@ -14,9 +14,9 @@ A niche consultant focused on supporting Equipment, Operations and Accounting Te
 Our experience and expertise Guarantees Results.
 
 [Website](https://lonewolf.consulting)
-**Phone**:2508801186
-**Industry**:Business Consulting and Services
-**Company size**:2-10 employees
-**Headquarters**:Victoria , BC
+**Phone**:2508801186<br>
+**Industry**:Business Consulting and Services<br>
+**Company size**:2-10 employees<br>
+**Headquarters**:Victoria , BC<br>
 ### Specialties
 Equipment Rates, Equipment Estimating, Equipment Economics, Equipment Costing, Equipment Accounting, Digital Transformation, Fleet Reserve Funds, Capex Planning, Equipment KPIs, Equipment & Operations Integration, Workplace Culture Assessments, Assessments, Equipment Masters Training, Strategic Planning, Transformational Leadership, Equipment Leadership, Equipment Overspending, Operations Leadership, and Accounting Leadership
