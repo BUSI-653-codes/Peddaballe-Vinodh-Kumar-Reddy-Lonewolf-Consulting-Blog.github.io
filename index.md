@@ -1,5 +1,8 @@
+
+
 <h1 align="center">LoneWolf Consulting</h1>
 <p align="center">
+
 Peddaballe Vinodh Kumar Reddy [2212316] <br>
 Group 2 <br>
 University Canada West<br>
@@ -7,7 +10,7 @@ BUSI 660, Section 40<br>
 </p>
 
 ___
-
+![image](https://github.com/user-attachments/assets/c04ac601-b058-46a7-86f9-b12fba9c5245)
 # Lone Wolf Consulting Blog
 A niche consultant focused on supporting Equipment, Operations and Accounting Teams. We advance the management and integration of mobile equipment assets with people, processes, and systems.  
 
